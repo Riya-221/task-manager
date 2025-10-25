@@ -1,0 +1,43 @@
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Build outputs
+dist/
+build/
+*.js.map
+
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+.vs/
+*.dll
+*.pdb
+*.exe
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment
+.env
+.env.local
+
+# Logs
+logs/
+*.log
+
+# Test coverage
+coverage/
